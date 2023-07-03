@@ -1,6 +1,7 @@
 #### <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+#**Surprising Insights Into Food Delivery!** 
+You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
