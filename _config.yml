@@ -1,7 +1,7 @@
 title: Trevor Maxwell # your name (or website title) here
 logo: "/images/Portrait_outside.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  **Test**    <br><br>
+  [Test]    <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
