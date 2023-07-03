@@ -1,10 +1,8 @@
 #### <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 
 # Surprising Insights Into Food Delivery!
-You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
-
+[*Original Data Set:*](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv ). 
 ### The Setup
 
 The food delivery industry is rapidly growing and you've likely heard of it even if you haven't used it yet. The following data is made for the marketing team at DoorDash. I thInk its relatable to everyone and I hope you find it interesting to read!
@@ -17,7 +15,13 @@ The food delivery industry is rapidly growing and you've likely heard of it even
 - High vs low income  
 - Food categories. 
 
-### 2. You can add any images you'd like. 
+### The Project
+DoorDash had requested an evaluation of the 6th campaign's success. They have also asked for ideas to improve sales on the platform.  
+By using pivot tables, charts and some linear regression, sales can be analyzed and broken down into demographic groups. **We have put together some visuals to make the information easy to follow.**
+- The results give a clear picture of who their loyal customers are.  
+- Slower times of year show an opportunity for gift cards. 
+- Meat is the most important category for generating revenue. 
+- There is a correlation of 0.75 with higher income to the amount spent.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
