@@ -1,10 +1,10 @@
-# Welcome to My Portfolio
+#### <img src="images/Portfolio_Header.png?raw=true"/>
 
 ---
 
-### Learn About My Projects
+#### <img src="images/welcome message.jpg?raw=true"/>
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/doordash_project.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
