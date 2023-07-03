@@ -10,12 +10,12 @@ Be sure to follow *The Interesting Project Template* as shown in [**The Data Sci
 The food delivery industry is rapidly growing and you've likely heard of it even if you haven't used it yet. The following data is made for the marketing team at DoorDash. I thInk its relatable to everyone and I hope you find it interesting to read!
 
 **If you're curious about where you fit in the data, keep reading!** We've gathered some fascinating insights. We analyzed: 
--Age groups 
--Marital status 
--Presence of children 
--Popular months 
--High vs low income  
--Food categories. 
+- Age groups 
+- Marital status 
+- Presence of children 
+- Popular months 
+- High vs low income  
+- Food categories. 
 
 ### 2. You can add any images you'd like. 
 
