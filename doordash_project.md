@@ -37,6 +37,7 @@ with the age group of 51 to 66 coming in a close second.
 
 Now Let's examine the role of children in consumer spending. 
 <img src="DoorDash_Visuals/HasKids2.jpg?raw=true"/>
+ 
  According to this table, **individuals without children spend 10X more** 
  on food delivery than those with children. 
 
