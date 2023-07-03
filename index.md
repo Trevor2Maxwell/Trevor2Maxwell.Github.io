@@ -4,23 +4,23 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
-#### [Internal Blog Post Project](/doordash_project.md)
+#### [PRESS HERE to read full article](/doordash_project.md)
 <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
-Tolulope is the best
+Surprising Insights Into Food Delivery!
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [PRESS HERE to read full article](/schoolproject.md)
+<img src="images/Education project.jpg?raw=true"/>
+state of massachusetts student analytics
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [PRESS HERE to read full article](/doordash_project.md)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [PRESS HERE to read full article](/doordash_project.md)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
@@ -29,13 +29,6 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
