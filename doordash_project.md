@@ -1,4 +1,4 @@
-#### <img src="images/Button.jpg?raw=true"/>(/index.md)
+#### <img src="images/Button.jpg?raw=true"/>
 
 **Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
 
