@@ -23,7 +23,7 @@ By using pivot tables, charts and some linear regression, sales can be analyzed 
 - Meat is the most important category for generating revenue. 
 - There is a correlation of 0.75 with higher income to the amount spent.
 
-###The Data 
+### The Data 
 
 *These visuals are only looking at customers who purchased during Campaign 6* 
 Based on this chart, both **single and married** individuals tend to spend more money than couples who are dating. Additionally, married couples between the ages of 36 and 50 seem to **spend the most.**
