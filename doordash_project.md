@@ -1,8 +1,7 @@
 #### <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 
 # Surprising Insights Into Food Delivery!
-
-[*Original Data Set:*](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv ). 
+ 
 ### The Setup
 
 The food delivery industry is rapidly growing and you've likely heard of it even if you haven't used it yet. The following data is made for the marketing team at DoorDash. I thInk its relatable to everyone and I hope you find it interesting to read!
@@ -25,5 +24,5 @@ By using pivot tables, charts and some linear regression, sales can be analyzed 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
-<img src="images/Button.jpg?raw=true"/>
+*Original Data Set:*[Click Here](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv ).
+[<img src="images/Button.jpg?raw=true"/>](/index.md).
