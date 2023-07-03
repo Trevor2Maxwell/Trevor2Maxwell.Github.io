@@ -1,6 +1,4 @@
-#### <img src="images/Button.jpg?raw=true"/>
-
-<img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
+#### <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 
 **Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
 
@@ -17,3 +15,6 @@ print('this is the python code I used to solve this problem')
 ### 2. You can add any images you'd like. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+<img src="images/Button.jpg?raw=true"/>
