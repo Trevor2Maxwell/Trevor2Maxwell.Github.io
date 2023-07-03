@@ -30,8 +30,8 @@ By using pivot tables, charts and some linear regression, sales can be analyzed 
 Based on this chart, both **single and married** individuals tend to spend 
 more money than couples who are dating. Additionally, married couples between 
 the ages of 36 and 50 seem to **spend the most.**
-<img src="images/MaritalStatus.jpg?raw=true"/>
-<img src="images/AgeGroup_vs_Amount.jpg?raw=true"/>
+<img src="DoorDash_Visuals/MaritalStatus.jpg?raw=true"/>
+<img src="DoorDash_Visuals/AgeGroup_vs_Amount.jpg?raw=true"/>
 According to this chart, the **age group of 36 to 50 spends the most,** 
 with the age group of 51 to 66 coming in a close second. 
 
