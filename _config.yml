@@ -1,8 +1,15 @@
 title: Trevor Maxwell # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  **About me**
+  Thank you for taking a moment to read about me. 
+I have had the opportunity for many years to work with teams to solve problems. I enjoy environments with teamwork and challenges to overcome. I feel tech is the place to be as we move towards integration with AI more and more.  
+My path studying and building projects for data analytics has grown my interest in business intelligence. Some days it feel like drinking from a fire hose. However I have narrowed it down to these skills. 
+-SQL 
+-Tableau 
+-PowerBI 
+-Excel 
+-Python    <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
