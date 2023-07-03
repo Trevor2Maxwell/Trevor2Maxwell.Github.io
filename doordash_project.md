@@ -36,21 +36,21 @@ According to this chart, the **age group of 36 to 50 spends the most,**
 with the age group of 51 to 66 coming in a close second. 
 
 Now Let's examine the role of children in consumer spending. 
-<img src="images/HasKids2.jpg?raw=true"/>
+<img src="DoorDash_Visuals/HasKids2.jpg?raw=true"/>
  According to this table, **individuals without children spend 10X more** 
  on food delivery than those with children. 
 
 This chart displays the months in which customers joined DoorDash.  
-<img src="Month Customers Joined .jpg?raw=true"/>
+<img src="DoorDash_Visuals/Month Customers Joined .jpg?raw=true"/>
 **January and March** were the most popular months for customer sign-ups, 
 while **November and December** had the lowest number of new customers. 
 
 Here we have a revenue by food category pie chart that displays the percentage 
 of the most popular selling products. **Meat is a clear winner.**
-<img src="Revenue by Food Category_trimmed.jpg?raw=true"/>
+<img src="DoorDash_Visuals/Revenue by Food Category_trimmed.jpg?raw=true"/>
 
 Lastly here is a scatterplot that displays the relationship between income and total money spent.
-<img src="ScatterPlotGraph.jpg?raw=true"/>
+<img src="DoorDash_Visuals/ScatterPlotGraph.jpg?raw=true"/>
 It indicates a strong correlation of 0.75, which means that as people's income increases, they tend to spend more money.  
 
 ### Takeaways 
