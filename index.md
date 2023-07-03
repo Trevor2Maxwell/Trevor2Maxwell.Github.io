@@ -5,7 +5,7 @@
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
 #### [Internal Blog Post Project](/doordash_project.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 Tolulope is the best
 
 ---
