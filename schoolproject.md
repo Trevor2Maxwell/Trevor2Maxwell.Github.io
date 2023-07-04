@@ -10,6 +10,7 @@ The state of Massachusetts asked to analyze their education data
 The **Secretary of Education is exploring ways** to increase college attendance, including investing in building more schools. One idea is to lower the average class size in hopes of **boosting the percentage of students attending college.** Using Tableau we have taken a deep dive into the data.
 
 All the data is available to look at yourself on this [Tableau Dashboard](https://public.tableau.com/app/profile/trevor.maxwell4413/viz/TheEducationProject-MassachusettsSchoolProject/Dashboard1?publish=yes)
+
 <img src="Education_Visuals/Student overview.png?raw=true"/>
 
 The original dataset can be found here 👉 [Dataset](https://github.com/Trevor2Maxwell/PortfolioProjects/blob/main/MA_Schools.xlsx)
@@ -25,16 +26,17 @@ higher education after graduation.
 As per the state's request, I looked at the correlation of class size. 
 <img src="Education_Visuals/Class size.jpg?raw=true"/>
 <img src="Education_Visuals/Class_Size_vs_Grae.jpg?raw=true"/>
-
-The average class size for the entire state is 18, however, the top 5 schools have the largest class sizes. While class size may not be a significant contributor to student grades. There was more data to look at. 
+The **average class size for the entire state is 18**, however, the top 5 schools have the largest class sizes. While class size may not be a significant contributor to student grades. There was more data to look at. 
+<br><br><br>
 
 Next, we looked at who could help other schools.
 <img src="Education_Visuals/Math top 5.jpg?raw=true"/>
 
 The top five schools in fourth-grade math proficiency are Hingham, Winchester, Lynnfield, Manchester, and Sherborn. Reaching out to these schools to **discover how they are aiding their student's success** will be important.
-
+<br><br><br>
 Then we identified schools needing the most urgent help.
-<img src="Education_Visuals/Grad.png.png?raw=true"/>
+
+<img src="Education_Visuals/Grad.png?raw=true"/>
 
 The **schools that are currently struggling the most** with their grade point average. These schools include Springfield Public, Boston Charter, Whaling City Junior, Springfield High, and Phoenix Academy. They could benefit greatly from some assistance and that would be a good place to start. 
 
