@@ -24,7 +24,7 @@ higher education after graduation.
 
 As per the state's request, I looked at the correlation of class size. 
 <img src="Education_Visuals/Class size.jpg?raw=true"/>
-<img src="Education_Visuals/Class size.jpg?raw=true"/>
+<img src="Education_Visuals/Class_Size_vs_Grae%.jpg?raw=true"/>
 
 The average class size for the entire state is 18, however, the top 5 schools have the largest class sizes. While class size may not be a significant contributor to student grades. There was more data to look at. 
 
