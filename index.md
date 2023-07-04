@@ -6,7 +6,7 @@
 
 ## [PRESS HERE to read full article](/Bank_Project.md)
 <img src="Bank_Vissuals/Bank Project Header.jpg?raw=true"/>
-Where is the money flowing?
+Drilling Down On IDA Loans.
 
 ---
 ## [PRESS HERE to read full article](/doordash_project.md)
