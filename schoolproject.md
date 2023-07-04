@@ -33,7 +33,7 @@ Next, we looked at who could help other schools.
 The top five schools in fourth-grade math proficiency are Hingham, Winchester, Lynnfield, Manchester, and Sherborn. Reaching out to these schools to **discover how they are aiding their student's success** will be important.
 
 Then we identified schools needing the most urgent help.
-<img src="Education_Visuals/Grad %.png?raw=true"/>
+<img src="Education_Visuals/Grad%.png?raw=true"/>
 
 The **schools that are currently struggling the most** with their grade point average. These schools include Springfield Public, Boston Charter, Whaling City Junior, Springfield High, and Phoenix Academy. They could benefit greatly from some assistance and that would be a good place to start. 
 
