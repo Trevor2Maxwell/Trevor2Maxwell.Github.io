@@ -4,7 +4,7 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
-## [PRESS HERE to read full article](/Bank_project.md)
+## [PRESS HERE to read full article](/Bank_Project.md)
 <img src="Bank_Vissuals/Bank Project Header.jpg?raw=true"/>
 Where is the money flowing?
 
