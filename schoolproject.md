@@ -9,7 +9,8 @@ In the state of Massachusetts, there are approximately 953,748 high school stude
 The state of Massachusetts asked to analyze their education data 
 The **Secretary of Education is exploring ways** to increase college attendance, including investing in building more schools. One idea is to lower the average class size in hopes of **boosting the percentage of students attending college.** Using Tableau we have taken a deep dive into the data.
 
-All the data is available to look at yourself on this [Tableau Dashboard](<img src="Education_Visuals/Student overview.png?raw=true"/>)
+All the data is available to look at yourself on this [Tableau Dashboard](https://public.tableau.com/app/profile/trevor.maxwell4413/viz/TheEducationProject-MassachusettsSchoolProject/Dashboard1?publish=yes)
+<img src="Education_Visuals/Student overview.png?raw=true"/>
 
 **If you're curious about where you fit in the data, keep reading!** We've gathered some fascinating insights. We analyzed: 
 - Age groups 
