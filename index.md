@@ -4,6 +4,11 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
+#### [PRESS HERE to read full article](/Bank_project.md)
+<img src="Bank_Vissuals/Bank Project Header.jpg?raw=true"/>
+Where is the money flowing?
+
+---
 #### [PRESS HERE to read full article](/doordash_project.md)
 <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
 Surprising Insights Into Food Delivery!
@@ -13,19 +18,11 @@ Surprising Insights Into Food Delivery!
 <img src="images/Education project.jpg?raw=true"/>
 state of massachusetts student analytics
 
----
-#### [PRESS HERE to read full article](/doordash_project.md)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
 
 ---
-#### [PRESS HERE to read full article](/doordash_project.md)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [PRESS HERE to see my Tableau plublic](https://public.tableau.com/app/profile/trevor.maxwell4413)
+<img src="images/Tableau Thumbnail.png?raw=true"/>
+Dashboards build in Tableau and uploaded to there public server. 
 
 ---
 
