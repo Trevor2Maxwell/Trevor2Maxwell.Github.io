@@ -1,80 +1,66 @@
-#### <img src="images/TitleImage_Doordash_Trimmed.jpg?raw=true"/>
+<img src="Bank_Vissuals/Bank Project Header.jpg?raw=true"/>
 
-# Surprising Insights Into Food Delivery!
+# Drilling Down On IDA Loans.
  
-### The Setup
+## Background 
 
-The food delivery industry is rapidly growing and you've likely heard of it even if you haven't used it yet. The following data is made for the marketing team at DoorDash. I thInk its relatable to everyone and I hope you find it interesting to read!
+The data is a snapshot from the world bank for November 2022. We're going to be analyzing it. More specifically the IDA statement of credits and grants. **Then looking at helpful insights from the SQL inquiries.**
 
-**If you're curious about where you fit in the data, keep reading!** We've gathered some fascinating insights. We analyzed: 
-- Age groups 
-- Marital status 
-- Presence of children 
-- Popular months 
-- High vs low income  
-- Food categories. 
+The origin of the data can be found [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) 
 
-### The Project
+<img src="Bank_Vissuals/WHO GUY.jpg?raw=true"/>
 
-DoorDash had requested an evaluation of the 6th campaign's success. They have also asked for ideas to improve sales on the platform.  
-By using pivot tables, charts and some linear regression, sales can be analyzed and broken down into demographic groups. **We have put together some visuals to make the information easy to follow.**
-- The results give a clear picture of who their loyal customers are.  
-- Slower times of year show an opportunity for gift cards. 
-- Meat is the most important category for generating revenue. 
-- There is a correlation of 0.75 with higher income to the amount spent.
+The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. **IDA provides development credits, grants**, and guarantees to its **recipient member countries to help meet their development needs.** 
 
-### The Data 
+## The Data 
 
-*These visuals are only looking at customers who purchased during Campaign 6* 
+We started our journey by asking a few interesting questions!  
+- What is the highest loan to the IDA? 
+- Who has the most loans? 
+- Which was the most recent to pay?<br> 
+Want to guess what the answer is before I tell you what the database says?
+<img src="Bank_Vissuals/QRY_results for details_COMBINED SHRUNK.png?raw=true"/>
+<img src="Bank_Vissuals/flags.jpg?raw=true"/>
 
-Based on this chart, both **single and married** individuals tend to spend 
-more money than couples who are dating. Additionally, married couples between 
-the ages of 36 and 50 seem to **spend the most.**
-<img src="DoorDash_Visuals/MaritalStatus.jpg?raw=true"/>
-<img src="DoorDash_Visuals/AgeGroup_vs_Amount.jpg?raw=true"/>
-According to this chart, the **age group of 36 to 50 spends the most,** 
-with the age group of 51 to 66 coming in a close second. 
+**India** has both the most amount owed at **793’256’127.64**  
+**and** the highest number of loans of **58’339** 
 
-Now Let's examine the role of children in consumer spending. 
-<img src="DoorDash_Visuals/HasKids2.jpg?raw=true"/>
- 
- According to this table, **individuals without children spend 10X more** 
- on food delivery than those with children. 
+**The curveball question** was tricky though. **The most recent country to pay was Tanzania.**
+<br><br><br>
+The next question we had was how much activity is going on in general. **We looked at how many total transactions.** 
 
-This chart displays the months in which customers joined DoorDash.  
-<img src="DoorDash_Visuals/Month Customers Joined .jpg?raw=true"/>
-**January and March** were the most popular months for customer sign-ups, 
-while **November and December** had the lowest number of new customers. 
+<img src="Bank_Vissuals/Total Transactions_Combined.png?raw=true"/>
 
-Here we have a revenue by food category pie chart that displays the percentage 
-of the most popular selling products. **Meat is a clear winner.**
-<img src="DoorDash_Visuals/Revenue by Food Category_trimmed.jpg?raw=true"/>
+Looks like lots of activity that's great to see. With **1'109'994 transactions currently recorded.** What I see here is countries are actively investing in development and looking for ways to grow. 
 
-Lastly here is a scatterplot that displays the relationship between income and total money spent.
-<img src="DoorDash_Visuals/ScatterPlotGraph.jpg?raw=true"/>
-It indicates a strong correlation of 0.75, which means that as people's income increases, they tend to spend more money.  
+We were asked to get some details about Nicaragua and this is what we found. 
 
-### Takeaways 
+<img src="Bank_Vissuals/Looking_At_Nicaragua_Combined.png?raw=true"/>
 
-The insights gathered from Campaign 6 regarding marital status and age groups can help us **concentrate on our ad campaigns and target the people who enjoy our service most.** By building a brand that resonates with our top customers, we can enhance their loyalty, resulting in increased spending with us.
+The amount gets kind of crazy to think about. The SUM of all their loan amounts is 84'467'522'051, **That's 84 Billion!** Is there a limit on how much can be owed? If not then there probably should be. 
 
-One idea that comes to mind is **offering gift card incentives** to encourage people to use us for their Christmas gifts to make purchases, thereby boosting sales and **attracting new customers in December.**
+Now one of the most interesting inquiries was to group transactions by country. **Let's look at the top and bottom 5 for the transaction amount.**
 
-Also, It may be worthwhile to conduct further research to **understand why parents with children are not using food delivery services as often.** While it could be due to having less disposable income, gathering more data could help us offer products and services that are attractive to this demographic.
+<img src="Bank_Vissuals/Total_trans_Country_Group_TOP&BOT_5.png?raw=true"/>
 
-As meat products are generating the highest revenue, it would be useful to share this information with our restaurant partners. They can use it to increase their sales by focusing on this category and **offering more meat products.** This can also encourage users to utilize our platform more frequently. 
+I learned here that Ukraine, South East Asia, and the Middle East are not using the IDA much at all. Two are clearly a category and should be broken up by country in more detail. We can see here as we learned before India has the most transaction 
 
-Based on the correlation between high income and sales, it appears that a significant portion of our customer base is paying close attention to price. This presents an opportunity to enhance our platform by adding features that allow our customers to **access great deals and enjoy our services even more.**
+Lastly, we had one last question looking at the **5 lowest loan amounts by the borrower.**
 
-Exp: For instance, we could **ask if they would like to receive notifications about flash sales** by opting into a special email list. Our restaurant partners could benefit from this by using flash sales to quickly clear out nearly expired food. 
-  
-If you find this article interesting, please connect with me on LinkedIn. I will be posting more like it.
+<img src="Bank_Vissuals/Due_Lowest_5_Combined.png?raw=true"/>
 
+What I learned from this was the amount of the lowest borrower and the highest is a huge difference. Looking at why the divergence to so large between borrowers is worth looking at more. 
 
-Avery Smith assigned me this data project, which includes a data set provided by DoorDash for educational purposes. 
+## Insights
 
-*Note this project is modified from an iFood job interview case study given by the Brazilian equivalent of DoorDash, iFood. The data is 98% real but slightly modified for educational purposes. 
+To start I would say we should be asking. Are the top five countries with the most debt utilizing it for their development and are there 
+**anyway, we can pull some of those resources and see if the bottom five countries need it more?**
 
-*Original Data Set:  *[Click Here](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv ).
+It would also be good to have a look at who is paying back more consistently and **reward them to show our gratitude for being good stewards.** 
+
+The divergence in the borrowers could be related to the rate of interest or return they are offered.  
+
+If you enjoyed reading this project, let's connect on LinkedIn and check out some other projects I have done!  
+
 [<img src="images/Button.jpg?raw=true"/>](/index.md).
   
