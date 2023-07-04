@@ -4,7 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Translating Data To Insightful Stories    <br><br>
   <a href="https://www.linkedin.com/in/trevor2maxwell/">View My LinkedIn Profile</a> 
 
-  additional_picture: "/images/ABOUT.png?raw=true"
+  additional_text: |
+    I am currently seeking a challenging position in data analytics
+    to make the most of my technical domain expertise and analytical skills. 
+    I enjoy the collaboration and growth that comes with the tech industry.
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
