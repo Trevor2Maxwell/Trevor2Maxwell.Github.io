@@ -40,7 +40,8 @@ Then we identified schools needing the most urgent help.
 
 The **schools that are currently struggling the most** with their grade point average. These schools include Springfield Public, Boston Charter, Whaling City Junior, Springfield High, and Phoenix Academy. They could benefit greatly from some assistance and that would be a good place to start. 
 
-Lastly, we found the most helpful piece of information!
+**Lastly, we found the most helpful piece of information!**
+
 <img src="Education_Visuals/School programs.jpg?raw=true"/>
 
 When it comes to **struggling schools, an average of 77% of their students are economically disadvantaged.** In contrast, only 13% of students in the top 5 schools face the same situation. 
