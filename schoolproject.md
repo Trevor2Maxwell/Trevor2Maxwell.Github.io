@@ -58,7 +58,7 @@ Lastly, It would be beneficial to **contact colleges** and share this informatio
 
 
   
-If you enjoyed reading this. Please connect with me on LinkedIn. I'll be posting more like it.
+If you enjoyed reading this. Please connect with me on LinkedIn. I'll be posting more like it.<br>
 *This project was done as part of the DAA Boot Camp Projects. Educational purpose.*
 
 
