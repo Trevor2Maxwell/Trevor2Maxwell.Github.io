@@ -17,7 +17,17 @@ The International Development Association (IDA) credits are public and publicly 
 We started our journey by asking a few interesting questions!  
 - What is the highest loan to the IDA? 
 - Who has the most loans? 
-- Which was the most recent to pay?<br> 
+- Which was the most recent to pay?<br
+## The Insights 
+- Identified the top five countries with the most debt. 
+- **Recommend checking if the top 5 are utilizing it for their development.**
+- Identified the 5 countries with almost zero debt to IDA. 
+- **Recommend confirming if the bottom 5 need more resources.** 
+- It would be good to have a look at who is paying back most consistently.
+- **We took a close look at Nicaragua specifically.**
+  
+###Let's get into it!
+  
 Want to guess what the answer is before I tell you what the database says?
 <img src="Bank_Vissuals/QRY_results for details_COMBINED SHRUNK.png?raw=true"/>
 <img src="Bank_Vissuals/flags.jpg?raw=true"/>
@@ -51,14 +61,15 @@ Lastly, we had one last question looking at the **5 lowest loan amounts by the b
 
 What I learned from this was the amount of the lowest borrower and the highest is a huge difference. Looking at why the divergence to so large between borrowers is worth looking at more. 
 
-## Insights
+## The Insights 
+- Identified the top five countries with the most debt. 
+- **Recommend checking if the top 5 are utilizing it for their development.**
+- Identified the 5 countries with almost zero debt to IDA. 
+- **Recommend confirming if the bottom 5 need more resources.** 
+- It would be good to have a look at who is paying back most consistently.
+- **We took a close look at Nicaragua specifically.**
 
-To start I would say we should be asking. Are the top five countries with the most debt utilizing it for their development and are there 
-**anyway, we can pull some of those resources and see if the bottom five countries need it more?**
-
-It would also be good to have a look at who is paying back more consistently and **reward them to show our gratitude for being good stewards.** 
-
-The divergence in the borrowers could be related to the rate of interest or return they are offered.  
+*The divergence in the borrowers could be related to the rate of interest or return they are offered.*  
 
 If you enjoyed reading this project, let's connect on LinkedIn and check out some other projects I have done!  
 
