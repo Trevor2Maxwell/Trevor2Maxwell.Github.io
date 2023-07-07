@@ -17,8 +17,10 @@ The International Development Association (IDA) credits are public and publicly 
 We started our journey by asking a few interesting questions!  
 - What is the highest loan to the IDA? 
 - Who has the most loans? 
-- Which was the most recent to pay?<br
+- Which was the most recent to pay?<br>
+
 ## The Insights 
+
 - Identified the top five countries with the most debt. 
 - **Recommend checking if the top 5 are utilizing it for their development.**
 - Identified the 5 countries with almost zero debt to IDA. 
