@@ -26,7 +26,7 @@ We started our journey by asking a few interesting questions!
 - It would be good to have a look at who is paying back most consistently.
 - **We took a close look at Nicaragua specifically.**
   
-###Let's get into it!
+### Let's get into it!
   
 Want to guess what the answer is before I tell you what the database says?
 <img src="Bank_Vissuals/QRY_results for details_COMBINED SHRUNK.png?raw=true"/>
