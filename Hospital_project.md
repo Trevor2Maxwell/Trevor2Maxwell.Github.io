@@ -36,8 +36,8 @@ Did you know that the average cost of a hospital stay in the US is $2,873 per da
 ## The Data 
 **Creating room for incoming patients in hospitals is of utmost importance** and there are **two approaches** to achieve this goal.
 
-1. Building more rooms and. Adding more beds.  
-2. Promptly discharging patients. 
+**1. Building more rooms and. Adding more beds.**  
+**2. Promptly discharging patients.**
 
 When it comes to patient care, efficiency is important, but it's equally important to ensure that patients aren't readmitted less than 30 days after being discharged. This requires a careful balance between prompt discharge and thorough follow-up care to prevent any unnecessary readmissions.
 
