@@ -41,25 +41,25 @@ Did you know that the average cost of a hospital stay in the US is $2,873 per da
 
 When it comes to patient care, efficiency is important, but it's equally important to ensure that patients aren't readmitted less than 30 days after being discharged. This requires a careful balance between prompt discharge and thorough follow-up care to prevent any unnecessary readmissions.
 
-let's start things out with a positive note and look at six success stories that happened inside the emergency unit. <br>
+**let's start things out with a positive note** and look at six success stories that happened inside the emergency unit. <br>
 <img src="Hospital_Visuals/Success stories-Combined_no added text.jpg?raw=true"/>
 Knowing specifically what contributed to making these success stories happen would be good data to collect. **You can imagine how much of an impact this has on opening up beds.** 
 
-Next, we are trying to see if the avg stay in the hospital was less than 7 days is easiest with a histogram.  
+Next, we are trying to see if the **avg stay in the hospital** was less than 7 days is easiest with a histogram.  
 <img src="Hospital_Visuals/Histogram combined.jpg?raw=true"/>
 SQL is not the best with this graph so we made one in Tableau as well. **It's clear that most patients are discharged before 7 days.** The avg is 4.40 days. 
 
-let's have a look to see what the busiest sector of the hospital currently is. 
+let's have a look to see **what is the busiest sector** of the hospital currently is. 
 <img src="Hospital_Visuals/num_precedures-combined.jpg?raw=true"/>
 It looks like **cardiology really is the biggest piece of the puzzle in this case,** and making sure they have enough resources to be as efficient as possible will be important. 
 
-A very touchy, but also very important piece of the puzzle is whether race is causing any special treatment good or bad.  
+A **very touchy, but also very important piece** of the puzzle is whether race is causing any special treatment good or bad.  
  <img src="Hospital_Visuals/avg lab vs race-Results-Combined.jpg?raw=true"/>
-luckily from the data we have it does not appear that race is getting special treatment. 
+luckily from the data we have it **does not appear that race is getting special treatment.** 
 
 Next, we're looking at how much of a correlation lab procedures have to the number of days a patient is in the hospital. 
- <img src="Hospital_Visuals/more procedures-Combined.jpg?raw=true"/>
- You can see in the inquiry that there's **definitely a correlation** between the number of lab procedures and the days a patient is in the hospital. which means that **reducing the number of procedures or improving their efficiency of them will also free up beds.** 
+ <img src="Hospital_Visuals/more precedures-Combined.jpg?raw=true"/>
+You can see in the inquiry that there's **definitely a correlation** between the number of lab procedures and the days a patient is in the hospital. which means that **reducing the number of procedures or improving their efficiency of them will also free up beds.** 
 
 The very **last** thing we're going to do is make a **summary of each patient** and see what stands out. 
  <img src="Hospital_Visuals/Patient summary-combined.jpg?raw=true"/>
@@ -74,10 +74,10 @@ The very **last** thing we're going to do is make a **summary of each patient** 
 - The summary shows even with 9 medications not always readmitted.
 
 ## Recommendations 
-- Here are some things to focus on. these pieces would make the biggest impact 
-- Finding out more data on what led to the success stories so we can learn from them and improve other departments by freeing up beds quickly. 
-- Confirm that the cardiology sector is running as efficiently as possible because it will have the biggest impact. Why? 
-- Let's look at ways to reduce the number of procedures. Also improve efficiency because that will lead to fewer days in the hospital. 
+Here are some things to focus on. these pieces would make the biggest impact 
+- Finding out **more data on what led to the success stories** so we can learn from them and improve other departments by freeing up beds quickly. 
+- **Confirm that the cardiology sector is running as efficiently as possible** because it will have the biggest impact. Why? 
+- Let's look at ways to **reduce the number of procedures. Also, improve efficiency because that will lead to fewer days in the hospital.** 
   *The goal here is to streamline procedures and maximize hospital capacity.*
 
 If you enjoy reading this article, let's connect on LinkedIn 
