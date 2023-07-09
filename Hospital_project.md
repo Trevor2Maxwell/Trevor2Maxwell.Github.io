@@ -53,15 +53,15 @@ let's have a look at what the busiest sector of the hospital is.
 It looks like **cardiology really is the biggest piece of the puzzle in this case,** and making sure they have enough resources to be as efficient as possible will be important. 
 
 A very touchy, but also very important piece of the puzzle is whether race is causing any special treatment good or bad.  
- <img src="Hospital_Visual/avg lab vs race-Results-Combined.jpg?raw=true"/>
+ <img src="Hospital_Visuals/avg lab vs race-Results-Combined.jpg?raw=true"/>
 luckily from the data we have it does not appear that race is getting special treatment. 
 
 Next, we're looking at how much of a correlation lab procedures have to the number of days a patient is in the hospital. 
- <img src="Hospital_Visual/more procedures-Combined.jpg?raw=true"/>
+ <img src="Hospital_Visuals/more procedures-Combined.jpg?raw=true"/>
  You can see in the inquiry that there's **definitely a correlation** between the number of lab procedures and the days a patient is in the hospital. which means that **reducing the number of procedures or improving their efficiency of them will also free up beds.** 
 
 The very **last** thing we're going to do is make a **summary of each patient** and see what stands out. 
- <img src="Hospital_Visual/Patient summary-combined.jpg?raw=true"/>
+ <img src="Hospital_Visuals/Patient summary-combined.jpg?raw=true"/>
  What I take away from this summary is that **even with a lot of medication prescribed. In many cases, the patient is not readmitted.**
 
 ## Key Insights 
