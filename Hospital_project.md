@@ -72,7 +72,7 @@ The very **last** thing we're going to do is make a **summary of each patient** 
 - From the data, all races are treated the same for lab procedures.  
 - In the vast majority of cases, more procedures equals more days in hospital.  
 - The summary shows even with 9 medications not always readmitted.
-- 
+
 ## Recommendations 
 - Here are some things to focus on. these pieces would make the biggest impact 
 - Finding out more data on what led to the success stories so we can learn from them and improve other departments by freeing up beds quickly. 
