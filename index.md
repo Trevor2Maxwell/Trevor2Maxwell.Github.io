@@ -4,6 +4,11 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
+## [PRESS HERE to read full article](/Hospital_project.md)
+<img src="Hospital_Visuals/Hospital Project banner 2.jpg?raw=true"/>
+Streamline procedures & Maximize hospital capacity
+
+---
 ## [PRESS HERE to read full article](/Bank_Project.md)
 <img src="Bank_Vissuals/Bank Project Header.jpg?raw=true"/>
 Drilling Down On IDA Loans.
