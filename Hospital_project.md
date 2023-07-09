@@ -49,7 +49,7 @@ Next, we are trying to see if the avg stay in the hospital was less than 7 days 
 <img src="Hospital_Visuals/Histogram combined.jpg?raw=true"/>
 SQL is not the best with this graph so we made one in Tableau as well. **It's clear that most patients are discharged before 7 days.** The avg is 4.40 days. 
 
-let's have a look at what the busiest sector of the hospital is. 
+let's have a look to see what the busiest sector of the hospital currently is. 
 <img src="Hospital_Visuals/num_precedures-combined.jpg?raw=true"/>
 It looks like **cardiology really is the biggest piece of the puzzle in this case,** and making sure they have enough resources to be as efficient as possible will be important. 
 
