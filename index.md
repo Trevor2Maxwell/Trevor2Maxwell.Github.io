@@ -4,7 +4,7 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
-## [PRESS HERE to read full article](/Hospital_project.md)
+## [PRESS HERE to read full article](/NBA_Project.md)
 <img src="Hospital_Visuals/Hospital Project banner?raw=true"/>
 Scored Some Exciting Insights
 
