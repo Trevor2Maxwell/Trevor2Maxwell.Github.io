@@ -4,6 +4,11 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
+## [PRESS HERE to read full article](/NBA_Project.md)
+<img src="NBA_Visuals/NBA banner.jpg?raw=true"/>
+Scored Some Exciting Insights
+
+---
 ## [PRESS HERE to read full article](/Hospital_project.md)
 <img src="Hospital_Visuals/Hospital Project banner 2.jpg?raw=true"/>
 Streamline procedures & Maximize hospital capacity
