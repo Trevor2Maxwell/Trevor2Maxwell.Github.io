@@ -4,22 +4,42 @@
 
 ## Calling NBA enthusiasts 📞
 
-We analyzed data from **101,766 patients across a span of 10 years, gathered from 130 hospitals.**
+If you love to watch the NBA or you coach aspiring NBA players. Then you are in the right place! This dataset is rich with information for you to take your knowledge to the next level. 
+I am no expert in regard to the NBA. However, I do like to challenge myself and learn new things. This project provided both. 
+*The origin of the data can be found [here](https://www.basketball-reference.com/leagues/NBA_2022_totals.html )* <br><br>
 
-Did you know that the average cost of a hospital stay in the US is $2,873 per day? When patients stay longer than necessary, it can prevent new patients from receiving the care they need. That's why **we're exploring using ways to open up more beds** and reduce unnecessary costs for patients who could be recovering at home.
+### Introduction
+
+The challenge for this project was to put together a data story. I felt **Tableau was the best program for creating beautiful visuals** and adding notes to organize a story.
+
+**I will walk you through the data story.** 
+I discover the insights as I was analyzing the data. You are welcome to visit the full interactive data story anytime on [Tableau public.](https://public.tableau.com/views/NBAProject_16890589596990/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link )
+
+There is also a bird eye view with [the dashboard](https://public.tableau.com/views/NBAProject_16890589596990/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link ) that I put together. If you wish to continue exploring. Then feel free to check that out.<br>
+<img src="NBA_Visuals/Dashboard 1 (1).png?raw=true"/><br>
+
+ ### Insights 
+ 
+- Teamwork leads to more points. there is a strong relationship between assists and points. The more players pass to assist the more they also score.
+- Each team has 2-3 superstars that are scoring the most points.  
+- Age 25-30 is most common and at the top of their game. The much younger players are scoring half as much. 
+- Point guards are getting the most assists in general. Except for Nikola, he is on a whole other level. 
+- The power forward seems to be very good at the 3pt shots. The center position is the worst at the 3pt shot.
+
+## The Data Story
+Welcome the 2022 NBA season with 605 players. There were 304'877 total points scored. With a landscape of 31 teams. 
 <br><br>
-*The origin of the data can be found [here](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)* <br><br>
-<img src="NBA_Visuals/Intro about data.jpg?raw=true"/><br>
+***Slide 1*** 
 
-<img src="NBA_Visuals/Averages-combined.jpg?raw=true"/> <br>
+Showing the relation between assists and points. 
+For the Bubble plot, We have the size showing the number of rebounds. color is the position. Y axis is the number of assists, X is the total points scored. <br>
+- Blue Centre 
+- Orange Power Forward 
+- Green Point Guard 
+- Brown Small Forward 
+- Red Small Guard
+<img src="NBA_Visuals/Bubble-sld1.png?raw=true"/><br>
 
 
-## Great Questions  
 
-- What are six success stories of patients coming to the emergency? 
-- Are Patients staying at the hospital less than a week on average?  
-- What medical specialties are doing the most procedures? 
-- Is there any special treatment for a certain race? 
-- Does more lab procedures correlate to more days in the hospital? 
-- Can we make a summary of patients with the most medication?
   
