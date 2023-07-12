@@ -5,7 +5,7 @@
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
 ## [PRESS HERE to read full article](/NBA_Project.md)
-<img src="Hospital_Visuals/NBA banner.jpg?raw=true"/>
+<img src="NBA_Visuals/NBA banner.jpg?raw=true"/>
 Scored Some Exciting Insights
 
 ---
