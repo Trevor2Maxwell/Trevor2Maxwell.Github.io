@@ -1,4 +1,4 @@
-<img src="Bank_Vissuals/Bank Project Header.jpg?raw=true"/>
+<img src="Bank_Vissuals/Bank Project Headercropped.jpg?raw=true"/>
 
 # Drilling Down On IDA Loans.
  
