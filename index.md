@@ -30,7 +30,7 @@ state of massachusetts student analytics
 
 
 ---
-## [PRESS HERE to see my Tableau plublic](https://public.tableau.com/app/profile/trevor.maxwell4413)
+## [PRESS HERE to see my Tableau public](https://public.tableau.com/app/profile/trevor.maxwell4413)
 <img src="images/Tableau Thumbnail.png?raw=true"/>
 Dashboards build in Tableau and uploaded to there public server. 
 
