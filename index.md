@@ -26,13 +26,13 @@ Surprising Insights Into Food Delivery!
 ---
 ## [PRESS HERE to read full article](/schoolproject.md)
 <img src="images/Education project.jpg?raw=true"/>
-state of massachusetts student analytics
+state of Massachusetts student analytics
 
 
 ---
 ## [PRESS HERE to see my Tableau public](https://public.tableau.com/app/profile/trevor.maxwell4413)
 <img src="images/Tableau Thumbnail.png?raw=true"/>
-Dashboards build in Tableau and uploaded to there public server. 
+Dashboards build in Tableau and uploaded to their public server. 
 
 ---
 
