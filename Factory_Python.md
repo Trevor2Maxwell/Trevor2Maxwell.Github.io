@@ -1,31 +1,64 @@
-<img src="NBA_Visuals/NBA banner.jpg?raw=true"/>
+<img src="Factory_Visuals/Mining process Banner.jpg?raw=true"/>
 
-# Scored Some Exciting Insights
+# Discovering Cause and Correlation
 
-## Calling NBA enthusiasts 📞
+## Background   
 
-If you love to watch the NBA or you coach aspiring NBA players. Then you are in the right place! This dataset is rich with information for you to take your knowledge to the next level. 
-I am no expert in regard to the NBA. However, I do like to challenge myself and learn new things. This project provided both. 
-*The origin of the data can be found [here](https://www.basketball-reference.com/leagues/NBA_2022_totals.html )* <br><br>
+Whether you're looking to expand your knowledge or are already an industry expert, I have collected some intriguing information for you. **Let me know if you can find the nuggets.**
 
-### Introduction
+As part of the DAA Analytics course, I was presented with this project to analyze a large dataset on the flotation extraction method for Iron ore using Python. 
 
-The challenge for this project was to put together a data story. I felt **Tableau was the best program for creating beautiful visuals** and adding notes to organize a story.
+Allow me to elaborate further. The process involves **drilling minerals** from the earth to **extract iron.** To achieve this, the minerals are transported to a plant where water and a few reagents are introduced to **separate the iron from other impurities.** You may refer to a [dictionary for the data]() if you want more context.  <br><br>
 
-**I will walk you through the data story.** 
-I discover the insights as I was analyzing the data. You are welcome to visit the full interactive data story anytime on [Tableau public.](https://public.tableau.com/views/NBAProject_16890589596990/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link )
+### Insights   
+- Amina Flow and the Ore Pulp Density have a high correlation  
+- Having the right combination of pulp density and reagent plays a role in 
+  % iron concentrate produced.   
+- The month of August had some low points   
+- Overall the PH has been kept consistent   
 
-There is also a bird eye view with [the dashboard](https://public.tableau.com/views/NBAProject_16890589596990/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link ) that I put together. If you wish to continue exploring. Then feel free to check that out.<br>
-<img src="NBA_Visuals/Dashboard 1 (1).png?raw=true"/><br>
+### Analysis   
+To perform the analysis, **I utilized Python libraries** including Pandas, Seaborn, and Matplotlib. We uploaded the data by executing the command *df = pd.read_csv* and then quickly examined the dataset using *df.head().* <br>
 
- ### Insights 
- 
-- **Teamwork leads to more points.** There is a strong relationship between assists and points. The more players pass to assist the more they also score.
-- Each team has **2-3 superstars that are scoring the most points.**  
-- **Age 25-30 is most common** and at the top of their game. The much younger players are scoring half as much. 
-- **Point guards are getting the most assists** in general. Except for Nikola, he is on a whole other level. 
-- The power forward seems to be very good at the 3pt shots. **The center position is the worst at the 3pt shot.**
+<img src="Factory_Visuals/Head of dataset.png?raw=true"/>
 
+To check the amount of data we have, we can use the command *df.shape*, which displays **737'453 rows and 24 columns.** By using *df.describe()*, we can see that the minimum percentage of Iron Concentrate is 62, while the **maximum % Iron concentrate was 68.** Since Iron concentrate is the goal I decided to look there.<br>
 
+<img src="Factory_Visuals/Describe result.png?raw=true"/><br><br>
+
+When I executed the command *df_june.corr()*, I observed that there was a **strong correlation (0.818) between Amina Flow and Ore Pulp Density.** This prompted me to **investigate further by creating a bubble plot.** In addition, I also included the percent Iron Concentrate in the plot, as it is a crucial factor in the overall operation. 
+
+Here is the code used to produce the bubble plot 
+<img src="Factory_Visuals/Make Bubble plot.png?raw=true"/>
+<img src="Factory_Visuals/Bubble plot.png?raw=true"/>
+
+You can **observe from the bubble plot how the Iron percentage is affected** by the density and Amina reagent.  
+
+Let's now zoom out and **examine the month of August.** By using a **line plot,** we can identify the times when the Iron percentage is at its lowest.<br>
+<img src="Factory_Visuals/Make line plot.png?raw=true"/>
+<img src="Factory_Visuals/Lineplot.png?raw=true"/>
+You can see **in the middle of August there were a few low points.** let's have a closer look at what might be a cause of this.   
+<br>
+**Analyzing the data with a heatmap,** the matrix is showing a correlation that is higher than 0.6 this is specifically looking at the 4 low days in the middle of August. 
+<img src="Factory_Visuals/Heatmap.png?raw=true"/>
+<img src="Factory_Visuals/Heatmap color.png?raw=true"/>
+
+**I could not find any connection between the low iron percentage and the other steps in the extraction process.** This means that there is no correlation. It may be helpful to use a form of regression analysis to identify any nonlinear relationships in the data.  
+
+Before wrapping up, I decided to **take a quick look at the overview of the pH levels.** Upon examining the histogram, it appears that the pH levels have been fairly consistent.  
+<img src="Factory_Visuals/Histogram.png?raw=true"/>
+<img src="Factory_Visuals/histogram color.png?raw=true"/><br>
+
+When reading about the flotation process, I discovered that regulating the pH value of the **Ore Pulp slurry is crucial for controlling the process.** However, I was unable to connect this to the decrease in iron concentration produced in mid-August. 
+
+### Insights   
+- Amina Flow and the Ore Pulp Density have a high correlation  
+- Having the right combination of pulp density and reagent plays a role in 
+  % iron concentrate produced.   
+- The month of August had some low points   
+- Overall the PH has been kept consistent
+
+**Thank you so much for taking the time to read through my analysis.** 
+If you made it this far and learned something new check out my [LinkedIn](https://www.linkedin.com/in/trevor2maxwell/) there are even more projects there. 
 
 [<img src="images/Button.jpg?raw=true"/>](/index.md).
