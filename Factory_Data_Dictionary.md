@@ -34,3 +34,5 @@ When air is added to the slurry, bubbles form that cling to the hydrophobic mine
 
 To optimize the flotation process, several variables such as pH, temperature, agitation, and reagent dosage are carefully controlled. These parameters can be changed depending on the mineral properties and desired extraction efficiency.
 
+[<img src="images/Button.jpg?raw=true"/>](/index.md)
+
