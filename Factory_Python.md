@@ -8,7 +8,7 @@ Whether you're looking to expand your knowledge or are already an industry exper
 
 As part of the DAA Analytics course, I was presented with this project to analyze a large dataset on the flotation extraction method for Iron ore using Python. 
 
-Allow me to elaborate further. The process involves **drilling minerals** from the earth to **extract iron.** To achieve this, the minerals are transported to a plant where water and a few reagents are introduced to **separate the iron from other impurities.** You may refer to a [dictionary for the data]() if you want more context.  <br><br>
+Allow me to elaborate further. The process involves **drilling minerals** from the earth to **extract iron.** To achieve this, the minerals are transported to a plant where water and a few reagents are introduced to **separate the iron from other impurities.** You may refer to a [dictionary for the data](/Factory_Data_Dictionary.md) if you want more context.  <br><br>
 
 ### Insights   
 - Amina Flow and the Ore Pulp Density have a high correlation  
@@ -61,4 +61,4 @@ When reading about the flotation process, I discovered that regulating the pH va
 **Thank you so much for taking the time to read through my analysis.** 
 If you made it this far and learned something new check out my [LinkedIn](https://www.linkedin.com/in/trevor2maxwell/) there are even more projects there. 
 
-[<img src="images/Button.jpg?raw=true"/>](/index.md).
+[<img src="images/Button.jpg?raw=true"/>](/index.md)
