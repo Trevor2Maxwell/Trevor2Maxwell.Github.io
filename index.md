@@ -4,6 +4,11 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
+## [PRESS HERE to read full article](/Factory_Python.md)
+<img src="Factory_Visuals/Mining process Banner.jpg?raw=true"/>
+Discovering Cause and Correlation
+
+---
 ## [PRESS HERE to read full article](/NBA_Project.md)
 <img src="NBA_Visuals/NBA banner.jpg?raw=true"/>
 Scored Some Exciting Insights
