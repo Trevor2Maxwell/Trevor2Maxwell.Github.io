@@ -8,7 +8,7 @@ Whether you're looking to expand your knowledge or are already an industry exper
 
 As part of the DAA Analytics course, I was presented with this project to analyze a large dataset on the flotation extraction method for Iron ore using Python. 
 
-Allow me to elaborate further. The process involves **drilling minerals** from the earth to **extract iron.** To achieve this, the minerals are transported to a plant where water and a few reagents are introduced to **separate the iron from other impurities.** You may refer to a [dictionary for the data](/Factory_Data_Dictionary.md) if you want more context.  <br><br>
+Allow me to elaborate further. The process involves **drilling minerals** from the earth to **extract iron.** To achieve this, the minerals are transported to a plant where water and a few reagents are introduced to **separate the iron from other impurities.** You may refer to a **[dictionary for the data](/Factory_Data_Dictionary.md)** if you want more context.  <br><br>
 
 ### Insights   
 - Amina Flow and the Ore Pulp Density have a high correlation  
@@ -34,7 +34,8 @@ Here is the code used to produce the bubble plot
 
 You can **observe from the bubble plot how the Iron percentage is affected** by the density and Amina reagent.  
 
-Let's now zoom out and **examine the month of August.** By using a **line plot,** we can identify the times when the Iron percentage is at its lowest.<br>
+Let's now zoom out and **examine the month of August.** By using a **line plot,** we can identify the times when the Iron percentage is at its lowest.
+<br>
 <img src="Factory_Visuals/Make line plot.png?raw=true"/>
 <img src="Factory_Visuals/Lineplot.png?raw=true"/>
 You can see **in the middle of August there were a few low points.** let's have a closer look at what might be a cause of this.   
@@ -58,7 +59,7 @@ When reading about the flotation process, I discovered that regulating the pH va
 - The month of August had some low points   
 - Overall the PH has been kept consistent
 
-**Thank you so much for taking the time to read through my analysis.** 
+**Thank you so much for taking the time to read through my analysis.** <br>
 If you made it this far and learned something new check out my [LinkedIn](https://www.linkedin.com/in/trevor2maxwell/) there are even more projects there. 
 
 [<img src="images/Button.jpg?raw=true"/>](/index.md)
