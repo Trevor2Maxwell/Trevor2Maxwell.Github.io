@@ -19,14 +19,14 @@ We started our journey by asking a few interesting questions!
 - Who has the most loans? 
 - Which was the most recent to pay?<br>
 
-## The Insights 
+## Key Insights Questions
 
-- Identified the top five countries with the most debt. 
-- **Recommend checking if the top 5 are utilizing it for their development.**
-- Identified the 5 countries with almost zero debt to IDA. 
-- **Recommend confirming if the bottom 5 need more resources.** 
-- It would be good to have a look at who is paying back most consistently.
-- **We took a close look at Nicaragua specifically.**
+- What are the 5 countries with the most debt? 
+- Is the debt being utilized properly?
+- Are there countries with no debt and who are they? 
+- Are there countries that need more money? 
+- Who is paying back most consistently? 
+- How is Nicaragua doing? 
   
 ### Let's get into it!
   
@@ -34,8 +34,8 @@ Want to guess what the answer is before I tell you what the database says?
 <img src="Bank_Vissuals/QRY_results for details_COMBINED SHRUNK.png?raw=true"/>
 <img src="Bank_Vissuals/flags.jpg?raw=true"/>
 
-**India** has both the most amount owed at **793’256’127.64**  
-**and** the highest number of loans of **58’339** 
+**India** has both the most amount owed at **$793,256,127.64**  
+**and** the highest number of loans of **58,339** 
 
 **The curveball question** was tricky though. **The most recent country to pay was Tanzania.**
 <br><br><br>
@@ -49,7 +49,7 @@ We were asked to get some details about Nicaragua and this is what we found.
 
 <img src="Bank_Vissuals/Looking_At_Nicaragua_Combined.png?raw=true"/>
 
-The amount gets kind of crazy to think about. The SUM of all their loan amounts is 84'467'522'051, **That's 84 Billion!** Is there a limit on how much can be owed? If not then there probably should be. 
+The amount gets kind of crazy to think about. The SUM of all their loan amounts is almost **$85 Billion!** Is there a limit on how much can be owed? If not then there probably should be. 
 
 Now one of the most interesting inquiries was to group transactions by country. **Let's look at the top and bottom 5 for the transaction amount.**
 
@@ -61,9 +61,9 @@ Lastly, we had one last question looking at the **5 lowest loan amounts by the b
 
 <img src="Bank_Vissuals/Due_Lowest_5_Combined.png?raw=true"/>
 
-What I learned from this was the amount of the lowest borrower and the highest is a huge difference. Looking at why the divergence to so large between borrowers is worth looking at more. 
+I learned from this that the amount of the lowest borrower and the highest is a huge difference. Looking at why the divergence to so large between borrowers is worth looking at more. 
 
-## The Insights 
+## Key  Insights 
 - Identified the top five countries with the most debt. 
 - **Recommend checking if the top 5 are utilizing it for their development.**
 - Identified the 5 countries with almost zero debt to IDA. 

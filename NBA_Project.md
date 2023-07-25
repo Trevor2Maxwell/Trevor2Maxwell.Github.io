@@ -18,7 +18,7 @@ I discover the insights as I was analyzing the data. You are welcome to visit th
 There is also a bird eye view with [the dashboard](https://public.tableau.com/views/NBAProject_16890589596990/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link ) that I put together. If you wish to continue exploring. Then feel free to check that out.<br>
 <img src="NBA_Visuals/Dashboard 1 (1).png?raw=true"/><br>
 
- ### Insights 
+###  Key Insights 
  
 - **Teamwork leads to more points.** There is a strong relationship between assists and points. The more players pass to assist the more they also score.
 - Each team has **2-3 superstars that are scoring the most points.**  
@@ -91,7 +91,7 @@ Lastly, I had a look at how age can affect scoring. **Lebron James at 37 even th
 Next to each point is the total point scored for the season. The bottom X axis is the age.
 Thank you so much for hanging on until the whistle and allowing me to explain my data exploration with a data store.
 
- ### Insights 
+ ### Key Insights 
  
 - **Teamwork leads to more points.** There is a strong relationship between assists and points. The more players pass to assist the more they also score.
 - Each team has **2-3 superstars that are scoring the most points.**  
