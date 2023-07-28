@@ -4,7 +4,7 @@
 
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
-# # [PRESS HERE to read full article](/HR Project.md) 
+# [PRESS HERE to read full article](/HR Project.md) 
 <img src="HR Project_Visuals/HR Title.jpg?raw=true"/>
 
 ### In my HR data research, I used advanced statistical tools such as R and Logistic regression to investigate age, gender, commute, and if they impact employee attrition over time. I identified high-attrition job roles and the importance of commute distance using my experience in data visualization.
