@@ -5,6 +5,12 @@
 #### <img src="images/welcome message2.jpg?raw=true"/>
 
 # [PRESS HERE to read full article](/Factory_Python.md)
+<img src="HR Project_Visuals/HR Title.jpg?raw=true"/>
+
+### Description
+
+---
+# [PRESS HERE to read full article](/Factory_Python.md)
 <img src="Factory_Visuals/Mining process Banner.jpg?raw=true"/>
 
 ### Discover the potential of data analysis in iron ore flotation! Python abilities used for correlation, time series, and regression analysis were done with Pandas, Seaborn, and Matplotlib. Inside the article, you will learn about Amina Flow, Ore Pulp Density, and percent Iron Concentrate. Investigate August's low points and steady pH levels. 
