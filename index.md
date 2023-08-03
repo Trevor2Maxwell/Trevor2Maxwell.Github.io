@@ -13,7 +13,7 @@
 # [PRESS HERE to read full article](/Twitch_Project_Visuals/Gaming Project CAPSTONE.pdf) 
 <img src="Twitch_Project_Visuals/TitleImage Twitch.png?raw=true"/>
 
-### Diving into the World of Twitch: A Data-Driven Exploration of Gaming Insights. I found surprising discoveries in top-performing games and Twitch's remarkable growth over 7 years. My goal was to empowering marketing decisions with informed data. This project took elements of **Tableau, SQL, and Excel** to showcase my skills. 
+### Diving into the World of Twitch: A Data-Driven Exploration of Gaming Insights. I found surprising discoveries in top-performing games and Twitch's remarkable growth over 7 years. My goal was to empower marketing decisions with informed data. This project took elements of **Tableau, SQL, and Excel** to showcase my skills. 
 
 ---
 # [PRESS HERE to read full article](/Factory_Python.md)
